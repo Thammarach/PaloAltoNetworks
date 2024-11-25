@@ -1,0 +1,9 @@
+name,mode,parent_interface,vsys,tag_vlan,ip_address,management_profile,virtual_router,comment
+dc2prdorbit01,layer3,ethernet1/1,vsys1,2118,10.1.200.5,Ping-Only,default,"First Network For Setup Spa"
+dc2prdorbit02,layer3,ethernet1/2,vsys1,2118,10.1.201.5,Ping-Only,default,"Second Network For Setup Spa"
+dc2prdorbit03,layer3,ethernet1/3,vsys1,2118,10.1.202.5,Ping-Only,default,"Third Network For Setup Spa"
+dc2prdorbit04,layer3,ethernet1/4,vsys1,2118,10.1.203.5,Ping-Only,default,"Four Network For Setup Spa"
+dc2prdorbit05,layer3,ethernet1/5,vsys1,2118,10.1.204.5,Ping-Only,default,"Five Network For Setup Spa"
+dc2prdorbit06,layer3,ethernet1/6,vsys1,2118,10.1.205.5,Ping-Only,default,"Six Network For Setup Spa"
+dc2prdorbit07,layer3,ethernet1/8,vsys1,2118,10.1.206.5,Ping-Only,default,"Seven Network For Setup Spa"
+dc2prdorbit08,layer3,ethernet1/9,vsys1,2118,10.1.207.5,Ping-Only,default,"Eight Network For Setup Spa"
